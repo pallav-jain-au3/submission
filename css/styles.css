@@ -10,7 +10,7 @@ body {
     background-color: #33C6B7;
 }
 
-.fab {
+.brand{
     color: white;
     font-size: 1.2rem;
     font-size: 4rem;
@@ -33,22 +33,23 @@ body {
 }
 
 .foot {
-
-    background-color: #33C6B7;
-    margin: 0 auto;
-}
+background-color: #33C6B7;
+color:white;
+font-size: 1rem;
+    }
 
 .foot .fab {
-    padding: 5%;
+    padding: 5% 7%;
 }
 
 .btn {
     background-color: #33C6B7 ;
-    padding: .5rem 3rem;
+    padding: 1% 5%;
     color: white;
     border-radius: 2rem;
 
 }
-
-
-
+.btn:hover{
+  background-color: #32dbc6;
+  color: white;
+}
